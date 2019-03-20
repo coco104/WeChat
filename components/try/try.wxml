@@ -1,0 +1,4 @@
+<!--components/try/try.wxml-->
+<view class="inner">{{innerText}}
+</view>
+

@@ -1,0 +1,5 @@
+/* components/try/try.wxss */
+.inner{
+  color:red;
+  text-align: center;
+}

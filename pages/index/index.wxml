@@ -1,0 +1,5 @@
+<view>
+  <!-- 以下是对一个自定义组件的引用 -->
+  <try inner-text="hello 我是微信小程序"></try>
+  <try inner-text="lalala"></try>
+</view>
